@@ -463,7 +463,7 @@ transition: 0.4s;
 .card-img-top2 {
   width: 100%;
   height: 12vw;
-  object-fit: contain;
+  object-fit: cover;
 }
 
 .piso-recorrido {
